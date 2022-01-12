@@ -1,8 +1,8 @@
 # Projeto-SDS6
 
-## Projeto realizado na Semana Spring React, desenvolvido pela DevSuperior.
+## Sobre o projeto:
 
-#### O projeto consiste em fazer um API REST de avaliações de filmes, usando tecnologias como: 
+#### Realizado na Semana Spring React e desenvolvido pela DevSuperior, o projeto consiste em fazer uma API REST de avaliações de filmes, usando tecnologias como: 
 - Java / SpringBoot
 - React
 - Postgres
