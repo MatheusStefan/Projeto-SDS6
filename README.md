@@ -7,7 +7,7 @@
 - GitHub para documentação
 - Postgres
 
-#### Segue uma imagem de demonstração 
-![imagem-site](https://user-images.githubusercontent.com/86742293/149581369-6be13b3b-9557-4892-9578-fbdacb520446.png
+### Segue uma imagem de demonstração 
+![imagem-site](https://user-images.githubusercontent.com/86742293/149581830-5b149c40-9743-4b01-9782-6a7c6240e402.png)
 
-### O site pode ser acompanhado no seguinte link: https://ds-movies-matheusstefan.netlify.app/
+#### O site pode ser acompanhado no seguinte link: https://ds-movies-matheusstefan.netlify.app/
